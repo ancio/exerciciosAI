@@ -23,7 +23,7 @@ Ambiente
 - internet, navegadores
 
 Atuadores
--comprar livro, exibir informacaoes de compra do livro
+- comprar livro, exibir informacaoes de compra do livro
 
 sensores
 - paginas, botoes ou links.
@@ -39,7 +39,7 @@ Ambiente
 - Teorema a ser provado
 
 Atuadores
--aceitar teoremas correctos,rejeitar teoremas errados
+- aceitar teoremas correctos,rejeitar teoremas errados
 
 sensores
 - Dispositivo de entrada do teorema
