@@ -46,21 +46,18 @@ sensores
 
 
 
-
-
-                        _Robo Jogador Futebol ___Agente para uma livraria online___Assistente matematico para prova de teoremas_
-
-Completamente observavel|     SIM            |              NAO                  |               SIM
-                        |                    |                                   |
-Deterministico          |     NAO            |              SIM                  |               SIM
-                        |                    |                                   |
-Estatico                |     NAO            |              SIM                  |               NAO
-                        |                    |                                   |
-Descreto                |     SIM            |              SIM                  |               SIM
-                        |                    |                                   |
-Agente Unico            |     NAO            |              SIM                  |               NAO
-
-
+                        |Robo Jogador Futebol|  Agente para uma livraria online  |Assistente matematico para prova de teoremas|
+                        |____________________|___________________________________|___________________________________________|
+Completamente observavel|     SIM            |              NAO                  |               SIM                         |
+                        |                    |                                   |                                           |
+Deterministico          |     NAO            |              SIM                  |               SIM                         |
+                        |                    |                                   |                                           |
+Estatico                |     NAO            |              SIM                  |               NAO                         |
+                        |                    |                                   |                                           |
+Descreto                |     SIM            |              SIM                  |               SIM                         |
+                        |                    |                                   |                                           |
+Agente Unico            |     NAO            |              SIM                  |               NAO                         |
+______________________________________________________________________________________________________________________________
 
 
 
